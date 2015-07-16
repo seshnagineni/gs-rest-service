@@ -1,0 +1,6 @@
+---
+applications:
+- name: seshtestcftest1
+  memory: 512M
+  host: seshtestcftest1
+  path: target/gs-rest-service-0.1.0.jar
